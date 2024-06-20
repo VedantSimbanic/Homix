@@ -1,0 +1,29 @@
+[
+  {
+    "agentId": "6673cd8b44459db98065e7bc",
+    "type": "residential",
+    "title": "Seaside Serenity",
+    "propertyImages": [
+      "image_1718887932432-574064813.jpeg"
+    ],
+    "price": "$900 000/ per month",
+    "address": "575 Main St 401",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": "1930 SqFt",
+    "aboutTheProperty": "Indulge in a unique blend of contemporary design and artistic inspiration in this 3-bedroom loft. This space effortlessly aligns modern living with creative allure, inviting you to connect with its vibrant energy. As you step inside, an inviting connection forms between the open layout and the surrounding cityscape. Each design element invites you to explore further - from the subtle stroke of lines enhancing the architecture to the carefully selected objects that embody a harmonious balance of form and function.",
+    "featured_gallery": [
+      "https://filecenter2.bestforagents.com/Properties/TrebIDXImages/PhotoS8208904-1.jpeg",
+      "https://filecenter2.bestforagents.com/Properties/TrebIDXImages/PhotoS8208904-2.jpeg"
+    ],
+    "facilities_property": [
+      "Swimming Pool",
+      "carparking"
+    ],
+    "mapLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2850.4102008423047!2d-79.68210002389915!3d44.40422767107648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882aa31661ad4d77%3A0x7eb874386b93e818!2s24%20Marion%20Crescent%2C%20Barrie%2C%20ON%20L4M%202R1%2C%20Canada!5e0!3m2!1sen!2sin!4v1715767249376!5m2!1sen!2sin",
+    "isDeleted": false,
+    "createdAt": "2024-06-10T09:35:28.821Z",
+    "_id": "667425fcafec836dec47557b",
+    "__v": 1
+  }
+]
